@@ -1,4 +1,4 @@
-# Matthew Szurkowski 🍞🧩🥷🏻⛺️🛩☁️🛳🏄🏼‍♂️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Matthew Szurkowski 🍞🧩🥷🏻⛺️🛩☁️🛳🏄🏼‍♂️
 ![](https://komarev.com/ghpvc/?username=MatthewSzurkowski&color=green)
 [![Repos Badge](https://badges.pufler.dev/repos/MatthewSzurkowski)](https://badges.pufler.dev)
 
