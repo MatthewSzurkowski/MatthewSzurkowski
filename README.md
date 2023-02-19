@@ -20,7 +20,6 @@
 ### About me
 <ul>
   <li>I love working with new technologies, and working in new environments :construction_worker_man:</br></li>
-  <li>Always trying to close my rings on my apple watch :watch:</br></li>
   <li>Looking into making a YouTube channel :bulb:</li>
 </ul>
 
